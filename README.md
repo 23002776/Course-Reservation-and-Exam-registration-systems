@@ -78,6 +78,6 @@ individual objects as well as the overall operation of the system in real time.
 
 ![Screenshot 2024-11-14 132832](https://github.com/user-attachments/assets/674c91de-d26d-4ac0-abd4-20e30300b717)
 
-# Result
-         Thus, the Student information system project was executed and the output  
+# Result:
+Thus, the Student information system project was executed and the output  
 was verified.
